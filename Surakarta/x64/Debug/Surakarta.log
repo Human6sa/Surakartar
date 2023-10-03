@@ -1,0 +1,17 @@
+﻿  Genetic.cpp
+  MCTS.cpp
+D:\苏拉卡尔塔\Surakarta\MCTS.cpp(33,56): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  MCTS.h
+  Board.cpp
+  Node.cpp
+D:\苏拉卡尔塔\Surakarta\SingelThreadAlphaBetaPro\Node.cpp(44,46): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\苏拉卡尔塔\Surakarta\SingelThreadAlphaBetaPro\Node.cpp(54,46): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  Search.cpp
+D:\苏拉卡尔塔\Surakarta\SingelThreadAlphaBetaPro\Search.cpp(10,15): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\苏拉卡尔塔\Surakarta\SingelThreadAlphaBetaPro\Search.cpp(57,59): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\苏拉卡尔塔\Surakarta\SingelThreadAlphaBetaPro\Search.cpp(57,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  Spinlock.cpp
+  Sulakarta.cpp
+  正在生成代码...
+x64\Debug\MCTS.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Surakarta.vcxproj -> D:\苏拉卡尔塔\Surakarta\x64\Debug\Surakarta.exe
